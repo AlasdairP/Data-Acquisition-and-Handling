@@ -25,6 +25,3 @@ Checkpoint 5: Temperature Sensors
 Can monitor and plot temperature vs time.
 
 
-
-
-THIS IS A CHANGE
